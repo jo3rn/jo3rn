@@ -15,3 +15,5 @@
 <a href="https://stackoverflow.com/users/7791111/jo3rn"><img align="left" alt="Stackoverflow page of jo3rn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />stackoverflow</a>
 
 <a href="https://www.youtube.com/channel/UCghhuyFEVZBlTwdwl8lWCAg"><img align="left" alt="Website of jo3rn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />YouTube Channel</a>
+
+<a href="https://ko-fi.com/jo3rn"><img align="left" alt="Website of jo3rn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ko-fi.svg" />Buy me a coffee</a>
