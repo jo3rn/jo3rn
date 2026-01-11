@@ -10,8 +10,6 @@ Hey there, this GitHub profile is mostly archived. I moved my development activi
 
 <a href="https://codeberg.org/jo3rn"><img align="left" alt="Website of jo3rn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.14.0/icons/codeberg.svg" />Codeberg</a>
 
-<a href="https://www.linkedin.com/in/jo3rn/"><img align="left" alt="LinkedIn page of jo3rn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn</a>
-
 <a href="https://mastodon.social/@jo3rn"><img align="left" alt="Mastodon page of jo3rn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />Mastodon</a>
 
 <a href="https://tube.tchncs.de/a/jo3rn"><img align="left" alt="PeerTube page of jo3rn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/peertube.svg" />PeerTube</a>
