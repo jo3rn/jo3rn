@@ -2,7 +2,7 @@
 **jo3rn/jo3rn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hey there, this GitHub profile is mostly archived. I moved my development activity to [Codeberg](https://codeberg.org/jo3rn). 
+Hey there, this GitHub profile is archived. I moved my development activity to [Codeberg](https://codeberg.org/jo3rn). 
 
 # Get in touch
 
